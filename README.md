@@ -94,11 +94,6 @@ cell and answer in the input prompt that appears.
 - Track high scores across sessions in a file
 - Build a simple GUI (Tkinter) or web version (Flask/Streamlit)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 *Built as a hands-on project to practise and showcase core Python skills
 relevant to the PCEP entry-level certification.*
